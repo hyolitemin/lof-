@@ -1,0 +1,8 @@
+{
+  "name": "LOF-Hunter (LOF 精品套利猎手)",
+  "description": "A specialized quantitative arbitrage scanner for LOF funds, focusing on small capital 'Cake Theory' strategies and T+2 backtesting.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
